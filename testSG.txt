@@ -1,1 +1,2 @@
 Testing smartGit 
+Ок, committing
