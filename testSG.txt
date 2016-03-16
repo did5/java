@@ -1,3 +1,2 @@
-﻿Testing smartGit 
+Testing smartGit 
 Ок, committing
-Revert
